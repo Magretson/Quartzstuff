@@ -1,4 +1,4 @@
-# Quartz v5
+# Quartz v5 (NB, This is just a repository copy of the original for my installation purpouses, check out the original)
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
